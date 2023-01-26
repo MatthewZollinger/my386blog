@@ -16,7 +16,7 @@ Um, web scraping, I suppose. I'm rather interested in improving my web scraping 
 
 *The Age of Surveillance Capitalism* by Shoshana Zuboff. I'm already 15% of the way through the audiobook!
 
-![Figure](https://github.com/MatthewZollinger/my386blog/raw/main/assets/images/SurvCap.jpeg)
+<img src = "https://github.com/MatthewZollinger/my386blog/raw/main/assets/images/SurvCap.jpeg" alt = "Cover of the audiobook of The Age of Surveillance Capitalism by Shoshana Zuboff. Image courtesy of Walmart Images." style = "width:400px;"/>
 
 ### Where are you hoping to get data for your main class project?
 
