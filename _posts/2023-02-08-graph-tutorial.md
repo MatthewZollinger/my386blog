@@ -3,7 +3,7 @@ layout: post
 title:  "Tips for Creating Great Graphs"
 author: Matthew Zollinger
 description: Charting your course
-image: /assets/images/catalyst.png
+image: /assets/images/Catalyst.png
 ---
 
 Below is a graph I made for a mentored research project I did a few summers ago. Consider what stands out to you as you look at it.
