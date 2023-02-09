@@ -8,7 +8,7 @@ image: /assets/images/catalyst.png
 
 Below is a graph I made for a mentored research project I did a few summers ago. Consider what stands out to you as you look at it.
 
-<img src = "https://github.com/MatthewZollinger/my386blog/raw/main/assets/images/datavis.png" alt = "A graph I made for a research project. It regards gross U.S. box office earnings for the weeks from January 1 to May 20, 2021." style = "width:1200px;"/>
+<img src = "https://github.com/MatthewZollinger/my386blog/raw/main/assets/images/datavis.png" alt = "A graph I made for a research project. It regards gross U.S. box office earnings for the weeks from January 1 to May 20, 2021."/>
 
 Looking back on it, I think most aspects of this graph are pretty solid, but I also notice several things I would do differently now. Clearly the graph is about movie theaters and their revenues in the first few months of 2021, but a few changes could help it tell its story better.
 
