@@ -10,7 +10,7 @@ Former U.S. President Barack Obama identified *The Age of Surveillance Capitalis
 
 I will refrain from passing judgment on President Obama, but the contrast between his actions then and his statement now is reminiscient of a much more proven and pronounced incongruity - that of big tech companies like Google and Facebook pledging a commitment to privacy and individuals, then utilizing the information their customers share in driving their own profits and reducing human experience to sellable data points (hence *surveillance captialists*). *The Age of Surveillance Capitalism* tells the troubling tale of these companies' 21st-century rise to global domination through algorithms, hidden agendas, invasions of individuals' privacy, and a single-minded focus on mining the meaning out of life, all under the guise of betterment of humanity. Zuboff calls for us as individuals to say we've had enough, to fight for life without constant observation, and to enact policies that restrict surveillance capitalists' powers.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg" alt="" style="width:600px;" class = "center"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg" alt="" style="width:500px;" class = "center"/>
 
 *Shoshana Zuboff, author of The Age of Surveillance Capitalism. Image from Alexander von Humboldt Institute for Internet and Society.*
 
