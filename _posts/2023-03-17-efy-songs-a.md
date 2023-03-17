@@ -16,7 +16,7 @@ In 2019, the Church announced that it would be sponsoring For the Strength of Yo
 
 Not that you'll find many people who make this distinction - to be fair, Church youth albums and EFY albums have many common contributors and tones - but right now, my focus is just on EFY albums. (And I nitpick!)
 
-<img src ="https://github.com/MatthewZollinger/my386blog/blob/main/assets/images/efy2007.jpg" alt = "An image of an EFY album, Power in Purity: EFY 2007. Also the entirety of my collection." style="width:400px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/efy2007.jpg" alt = "An image of an EFY album, Power in Purity: EFY 2007. Also the entirety of my collection." style="width:400px;"/>
 
 ## The Data
 
@@ -36,7 +36,7 @@ YouTube's [robots.txt](https://www.youtube.com/robots.txt) file has a few more r
 
 I also found this fun note on YouTube's robots.txt file:
 
-<img src ="https://github.com/MatthewZollinger/my386blog/blob/main/assets/images/YouTube.png" alt = "A screenshot of Microsoft Edge on a Windows computer open to youtube.com/robots.txt. The text says 'Created in the distant future (the year 2000) after the robotic uprising of the mid 90's which wiped out all humans.' YouTube wasn't even around in the 90s, right?" style="width:400px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/YouTube.png" alt = "A screenshot of Microsoft Edge on a Windows computer open to youtube.com/robots.txt. The text says 'Created in the distant future (the year 2000) after the robotic uprising of the mid 90's which wiped out all humans.' YouTube wasn't even around in the 90s, right?" style="width:400px;"/>
 
 ## Next Steps
 
