@@ -3,7 +3,7 @@ layout: post
 title:  "EFY Album Data Part 1: Collection"
 author: Matthew Zollinger
 description: Scraping from SingPraises.net (and YouTube) is a simple snap!
-image:
+image: /assets/images/Inside.jpg
 ---
 
 Ah, EFY albums. The savior of many a Latter-day Saint missionary's sanity, these albums are religious in focus and contemporary in tone. I love them - maybe a little too much, since not only do I have a goal to collect them all, but I'm also doing data analysis about them - specifically, whether certain credited artists tended toward longer or shorter songs.
