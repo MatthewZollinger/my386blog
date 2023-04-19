@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "EFY Album Data Part 2: Exploratory Data Analysis"
+title:  "EFY Album Data Part 3: Who Wrote the Longest Songs?"
 author: Matthew Zollinger
-description: An EFY EDA!
-image: /assets/images/efy2007.jpg
+description: The data doesn't lie...
+image: /assets/images/powerback.jpg
 ---
 
 Well, here we are. We already scraped SingPraises.net and individual YouTube videos for track names, credits, and writers in [my first post on EFY song data](https://matthewzollinger.github.io/my386blog/2023/03/17/efy-songs-a.html). In [my second post](https://matthewzollinger.github.io/my386blog/2023/04/04/efy-songs-b.html), we looked at various graphs of song length, number of artist contributions, and repeat songs.
