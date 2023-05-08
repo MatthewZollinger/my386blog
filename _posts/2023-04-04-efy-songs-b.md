@@ -36,13 +36,13 @@ Tyler Castleton takes top spot again, with 74 songs this time. Staci Peters is o
 
 As a side note, you'll notice that the lyric and music graphs are quite similar. After a somewhat tedious subsetting operation, I discovered that, of the 388 songs in our data set, only 40 (10%) do not have any music writers who also wrote the lyrics. Which is totally fair, since music and lyrics usually need some cohesion.
 
-## Credits (2008-2019)
+## Credits (2009-2019)
 
 Since this is the data set I'll primarily be working with, I decided to look at it separate from the older songs. This time exclusions were made dependent on the credit, as described in each credit's section.
 
 ### Artists
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/artists08.png" alt = "Graph of most credited artists for EFY albums from 2008 to 2019." style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/artists08.png" alt = "Graph of most credited artists for EFY albums from 2009 to 2019." style="width:500px;"/>
 
 (This graph excludes artists with fewer than 3 artist credits.)
 
@@ -52,7 +52,7 @@ Nik Day's 7 songs looks impressive in the modern era, but keep in mind there are
 
 ### Lyric Writers
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/words08.png" alt = "Graph of most credited word writers for EFY albums from 2008 to 2019." style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/words08.png" alt = "Graph of most credited word writers for EFY albums from 2009 to 2019." style="width:500px;"/>
 
 (This graph excludes writers with fewer than 2 lyric credits.)
 
@@ -60,7 +60,7 @@ This era is a strong subset for Tyler Castleton, who wrote or contributed 37 son
 
 ### Music Writers
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/music08.png" alt = "Graph of most credited music writers for EFY albums from 2008 to 2019." style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/music09.png" alt = "Graph of most credited music writers for EFY albums from 2009 to 2019." style="width:500px;"/>
 
 (This graph excludes writers with fewer than 3 music credits.)
 
@@ -72,11 +72,11 @@ Considering the lyric and music crossover again, 10 of our 40 songs (25%) with n
 
 Next, I'll consider lengths of songs - first as a whole, then grouped by year. As a reminder, these graphs only show albums from 2008 to 2019 (when the last EFY album was released).
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/length.png" alt = "Graph of lengths of songs (in seconds) for EFY albums from 2008 to 2019." style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/length2.png" alt = "Graph of lengths of songs (in seconds) for EFY albums from 2009 to 2019." style="width:500px;"/>
 
 There's a strong mode of songs around 220-230 seconds (3:30-3:40), with over 25 songs in this range. The mean of the lengths also falls within this range (224 seconds, or 3:34). The data looks somewhat Normal, though there's a high concentration of points just below the mode and a larger spread of points above the mode. The shortest song, "We Stand" by Lauryn Judd (words and music by Nik Day) from the 2019 album, is 152 seconds (2:33), while the two outliers on the graph are both hymns in the Church of Jesus Christ of Latter-day Saints's hymnbook ("I Believe in Christ" from the 2009 album and "I Know That My Redeemer Lives" from the 2011 album), both sung by Jen Marco Handy and arranged by Michael R. Hicks. Both songs clock in over 360 seconds (6 minutes).
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/lengthyear.png" alt = "Graph of lengths of songs (in seconds) for EFY albums from 2008 to 2019, grouped by year or album (they're the same)." style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post4/lengthyear2.png" alt = "Graph of lengths of songs (in seconds) for EFY albums from 2009 to 2019, grouped by year or album (they're the same)." style="width:500px;"/>
 
 The medians of these songs tend to hang around 225 seconds (3:15) - the most notable exception is 2010, where the median is nearly 250 seconds (3:40). Both of our 6-minute songs are outliers in their respective years, as is "We Stand." None of my chosen variables seem to be able to predict any commonalities between the outliers besides the two hymns, despite most albums having an outlier.
 
