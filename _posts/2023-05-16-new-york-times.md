@@ -27,11 +27,11 @@ The final, combined list yields 174 distinct books from the Print/Ebook Fiction 
 
 I started this analysis with a plot in R using ggplot. It gives a decent picture of books and how many weeks they spent, but it does lack some color. (The x axis is simply a ranking or index of each individual book by number of weeks.)
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post6/ggplotchart.png" style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post6/ggplotchart.png" style="width:800px;"/>
 
 I've been wanting to get some experience using Tableau, so I used it to generate a few more summary plots - mostly EDA in comparison to the R plot, but I thought it was a fun experiment and a good exercise.
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post6/authors3.png" style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post6/authors3.png" style="width:800px;"/>
 
 This shows all authors with three or more works on one or both of the lists during this time frame. I didn't look up release dates for these books, but Colleen Hoover is extremely prolific any way you slice it. Alan Gratz is the only individual on the middle grade list with more than three works, which is a  little surprising - but this can be attributed both to the general lower variation in middle grade best sellers and to only having ten spots as opposed to fifteen.
 
@@ -47,7 +47,7 @@ This plot shows the number of weeks authors (or author groups) spent on the Midd
 
 Once again, multiple works let Colleen Hoover (and Taylor Jenkins Reed) take the top spots. It's so hard to read this graph, I made another one *without* Colleen Hoover.
 
-<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post6/fiction2.png" style="width:500px;"/>
+<img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post6/fictionnohoover.png" style="width:500px;"/>
 
 It strikes me as odd that Danielle Steel only has six weeks with six works - perhaps Steel's fans buy each work as it releases, with no residual sales? Delia Owens's *Where the Crawdads Sing* had its film adaptation released during this time frame, which likely contributed to it attaining 36 weeks on the list.
 
