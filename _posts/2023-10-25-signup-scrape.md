@@ -126,7 +126,7 @@ if (current[0] == "A"):
             current, curnum = success(current, curnum)
 ```
 
-Sometimes I have to go as deep as three letters before checking to see if we have a perfect match in genre, but once we do, we mark the respective entry in the genre's list as `True` and then advance to the next genre in the list. While this does require a minimum of 16 checks per title, the algorithm never repeat checks for each title because it never loops back to the beginning until it has proceeded to a new title. (If you have suggestions for improving this algorithm, let me know in the comments here or on LinkedIn!)
+Sometimes I have to go as deep as three letters before checking to see if we have a perfect match in genre, but once we do, we mark the respective entry in the genre's list as `True` and then advance to the next genre in the list. While this does require a minimum of 16 checks per title, the algorithm never repeat checks for each title because it never loops back to the beginning until it has proceeded to a new title. (If you have suggestions for improving this algorithm, let me know in the comments here or on LinkedIn!) Again, the full code here is in You can find my full code in [the GitHub repo I mentioned earlier](https://github.com/MatthewZollinger/SignUp-Disney-Info) (this file's called "Flixable Scraping.ipynb). The output CSV files are also in that repo.
 
 <img src ="https://raw.githubusercontent.com/MatthewZollinger/my386blog/main/assets/images/post67/hocuspocus.png" style="width:800px;"/>
 
