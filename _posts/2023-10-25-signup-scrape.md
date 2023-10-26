@@ -3,7 +3,7 @@ layout: post
 title:  "What's Next for SignUp on Disney+? Part 1: Scraping"
 author: Matthew Zollinger
 description: Selenium and the Sorting Algorithm
-image: /assets/images/post7/bluey2.png
+image: /assets/images/post7/bluey2.jpg
 ---
 
 A few months ago, Disney+ released a new version of the Marvel Cinematic Universe film *Ant-Man* with American Sign Language (ASL) captioning ([here's a full article about it](https://whatsondisneyplus.com/disney-adds-asl-version-of-marvels-ant-man/)). I took two ASL classes during my senior year of college (read: I was still in one of those classes when this version of *Ant-Man* released), so this announcement caught my attention. I was curious to see what other films on Disney+ had ASL captions, so I searched the Internet and found little else provided by Disney themselves. Luckily, I *did* find another solution: [SignUp](https://www.signupcaptions.com/), a company that produces free ASL captions.
